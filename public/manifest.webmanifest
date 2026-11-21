@@ -1,0 +1,30 @@
+{
+  "id": "/",
+  "name": "CardCedi — Buy & sell gift cards for cedis in Ghana",
+  "short_name": "CardCedi",
+  "description": "Ghana's gift card marketplace. Sellers are paid straight to MoMo; CardCedi keeps a flat 10%.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FAF7F1",
+  "theme_color": "#FAF7F1",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
